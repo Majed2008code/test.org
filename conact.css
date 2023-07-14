@@ -1,0 +1,14 @@
+body{
+    background-color:  rgb(4, 58, 58);
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    color: aliceblue;
+    text-align: rtl;
+}
+div{
+    color: aliceblue;
+}
